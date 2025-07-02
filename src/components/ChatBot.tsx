@@ -142,7 +142,7 @@ const ChatBot: React.FC = () => {
   return (
     <ChatBotContainer>
       <Header>
-        <Title>Global FoodBanking Network Chat Assistant</Title>
+        <Title>The Global Foobanking Network</Title>
       </Header>
       <ChatContainer>
         <ChatBotFrame
