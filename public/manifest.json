@@ -1,6 +1,6 @@
 {
-  "short_name": "ChatBot",
-  "name": "ChatBot Assistant",
+  "short_name": "Foobanking",
+  "name": "The Global Foobanking Network",
   "icons": [
     {
       "src": "favicon.ico",
@@ -26,6 +26,6 @@
   "background_color": "#ffffff",
   "orientation": "portrait",
   "categories": ["productivity", "utilities"],
-  "description": "Un asistente chatbot inteligente",
+  "description": "The Global Foobanking Network - Plataforma de servicios financieros globales",
   "prefer_related_applications": false
 }
